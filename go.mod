@@ -1,3 +1,3 @@
 module github.com/AhmedAbo3li/go-web-app
 
-go 1.21.10
+go 1.22.5
