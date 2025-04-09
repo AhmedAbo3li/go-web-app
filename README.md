@@ -42,7 +42,7 @@ The following diagram summarizes the project in three phases:
 - Developed and tested the project locally.
 - Created an optimized **multi-stage Dockerfile**.
 - Pushed the image to **Docker Hub**.
-![Instances](assets/docker)
+![Instances](assets/docker.png)
 
 
 ---
@@ -56,8 +56,8 @@ The following diagram summarizes the project in three phases:
 - Deployed **NGINX Ingress Controller** for traffic routing.
 - Applied all Kubernetes manifests.
 - Mapped domain using **Route53** for DNS.
-  ![Instances](assets/instances)
-  ![Cluster](assets/cluster)
+  ![Instances](assets/instances.png)
+  ![Cluster](assets/cluster.png)
 
 
 
